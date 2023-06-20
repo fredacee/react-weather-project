@@ -9,7 +9,11 @@ export default function App() {
         <Weather />
         <footer>
           This project was coded by{""}
-          <a href="https://www.ichatwithfreda@yahoo.com" target="_blank">
+          <a
+            href="https://www.ichatwithfreda@yahoo.com"
+            target="_blank"
+            rel="noreferrer"
+          >
             Winifred Ayaga
           </a>
           {""}
@@ -17,6 +21,7 @@ export default function App() {
           <a
             href="https://github.com/fredacee/react-weather-project"
             target="_blank"
+            rel="noreferrer"
           >
             open sourced on GitHub
           </a>
